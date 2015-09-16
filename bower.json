@@ -1,0 +1,21 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "authors": [
+    "gexiaowei <gandxiaowei@gmail.com>"
+  ],
+  "description": "create qrcode for current websit url",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.x",
+    "jquery-qrcode": "latest",
+    "jsqrcode": "latest"
+  }
+}
